@@ -1,0 +1,66 @@
+{
+  "snapshot_date": "2026-10-01",
+  "purpose": "教学出题参考，后续需核对版本",
+  "snippets": {
+    "S02": {
+      "file": "match.py",
+      "symbol": "winner",
+      "start_line": 15,
+      "end_line": 20,
+      "sha256": "9f764c32e4800ce913e59c126a13d5eacbab8b2cd55044b9cf1c1cca84e25e96"
+    },
+    "S03": {
+      "file": "match.py",
+      "symbol": "remaining_time",
+      "start_line": 23,
+      "end_line": 24,
+      "sha256": "f9c3758bb0018f9666089cd846259ffee549e10f0039ae03098a2fcff9ac95e0"
+    },
+    "S04": {
+      "file": "main.py",
+      "symbol": "read_directions",
+      "start_line": 44,
+      "end_line": 50,
+      "sha256": "607bfc012b6985ed86344c5c88478c67d8bb4c5b367240a09c00ad243bf386be"
+    },
+    "S05": {
+      "file": "main.py",
+      "symbol": "reset_field",
+      "start_line": 16,
+      "end_line": 19,
+      "sha256": "fb54bdbebd3234e6a01e119d0caa542f343558bcea428e354ca885a0598cd23f"
+    },
+    "S06": {
+      "file": "player.py",
+      "symbol": "Player.update",
+      "start_line": 54,
+      "end_line": 55,
+      "sha256": "5c07483a6b0e3c77e74fd03c3ecb46b99b2a46da030b59517279cc36f9fdc873",
+      "note": "Player.update 内连续两行，非完整函数"
+    },
+    "S07": {
+      "file": "player.py",
+      "symbol": "Player.kick",
+      "start_line": 36,
+      "end_line": 43,
+      "sha256": "52ededc460a8a6da582cf467c564a0623978e5bacc1b77d4634c1ed337f7de34"
+    },
+    "S08": {
+      "file": "match.py",
+      "symbol": "goal_scorer",
+      "start_line": 5,
+      "end_line": 12,
+      "sha256": "190047ed82fc1f42b5717b4c0277a2e1bb4287bf35eefd6f6d550eb3da4a0b25"
+    },
+    "S01": {
+      "file": "settings.py",
+      "symbols": [
+        "MATCH_SECONDS",
+        "PLAYER_SPEED",
+        "KICK_SPEED",
+        "KICK_COOLDOWN"
+      ],
+      "note": "非连续常量行摘录"
+    }
+  }
+}
