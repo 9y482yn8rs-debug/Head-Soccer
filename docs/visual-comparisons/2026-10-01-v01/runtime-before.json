@@ -1,0 +1,38 @@
+[
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\ball.py",
+    "Hash": "296790A5B5BDF529D663149BFF83C933BB4814BD1D1FBC3FB5C304CA836E8DB1"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\collision.py",
+    "Hash": "F5CF0626437292DD179D1B50A82955588C50CE0241730C8E6A804CA735723D6E"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\field.py",
+    "Hash": "9DFCD5D36C0160D9DC559E61288EC5713E7AE1533D25E571C8A0A2A1538EC281"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\main.py",
+    "Hash": "41C329ECA41445994901377314E89267B0F81BA7D804F3B6C0A4106876441097"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\match.py",
+    "Hash": "CD32D7A2F3F509C8427D6246E2BAC2E0E6F2E7AB2116A6541DE5779E0ECE3097"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\player.py",
+    "Hash": "BD1A1A6FED69D31DA381B1088947B8424AABC84F191B76871D7F3AFBC1C1C220"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\resources.py",
+    "Hash": "E9D61ECC16603CDBA914602CF7A51146EF73ABDC1E93F3D6703B0FC06143344C"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\settings.py",
+    "Hash": "07453B6F3C2B3426720B443845057DDB7774991CEAD931C7216E3E98C66E0728"
+  },
+  {
+    "Path": "D:\\cs teach\\2026\\AlexGames\\headSoccer\\ui.py",
+    "Hash": "D301D6F2989D3A7BE16B79E0B30CE96EAB3A60A70D92FF1E41814C6093AAE97E"
+  }
+]

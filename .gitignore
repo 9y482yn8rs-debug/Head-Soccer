@@ -1,0 +1,34 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+docs/classroom
+docs/teaching
+
+# Generated delivery files; keep source and runtime images in Git.
+/deliverables/
+/build/
+/dist/
+*.egg-info/
+
+# Local editor settings, logs and private configuration.
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+*.log
+.env
+.env.*
+!.env.example
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+._*

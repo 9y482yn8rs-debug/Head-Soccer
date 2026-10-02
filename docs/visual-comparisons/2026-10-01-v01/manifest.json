@@ -1,0 +1,38 @@
+{
+  "version": "2026-10-01-v01",
+  "selected": null,
+  "images": [
+    {
+      "file": "A-current.png",
+      "width": 1280,
+      "height": 720,
+      "sha256": "cae7d79c3b4466afb7e1f909f62cf3bc6a33da9d3f4af9d3e72643edc187526b",
+      "source": "docs/previews/game.png",
+      "kind": "actual screenshot"
+    },
+    {
+      "file": "B-art-polish.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "2f7be74015b089962dcd056c7fa84ab5bb5f36fd6ecccf3622cdd7e108df3140",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a0f683-6142-7391-b237-b992470d165f\\exec-3c0d88bd-5c7b-4d3c-b115-4490cfeb3bb1.png",
+      "kind": "AI concept mockup"
+    },
+    {
+      "file": "C-elevated-view.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "6eec688b15b966f48680647b0bce94e26de39777ac1e28b76ec60a8bef28244e",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a0f683-6142-7391-b237-b992470d165f\\exec-b9f63953-1111-4ef0-b872-9b6a95134d85.png",
+      "kind": "AI concept mockup"
+    },
+    {
+      "file": "D-minimal-change.png",
+      "width": 1672,
+      "height": 941,
+      "sha256": "87923c9b092b8485bae2d6c362f432dcc268f3c50d0d0c5e199f7d255476a253",
+      "source": "C:\\Users\\Administrator\\.codex\\generated_images\\01a0f683-6142-7391-b237-b992470d165f\\exec-0ec52e8b-d38a-4246-8906-22c5614317ae.png",
+      "kind": "AI concept mockup"
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+# Consistent source diffs on Windows and macOS.
+* text=auto
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+.gitignore text eol=lf
+.gitattributes text eol=lf
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ttf binary
+*.ttc binary
+*.zip binary
